@@ -11,7 +11,8 @@
 //static -> Essa constante é compartilhada entre todas as classes do meu programa
 // final -> Não posso alterar o valor
 public static void main(String[] args) {
-    
+  System.out.println("a taxa da loja é de:" +TAXA+"%");  
+System.out.println("PI vale: " +PI);
 } 
 
 }
